@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/isaniovitor/generator-initial-workflow/issues"
   },
-  "homepage": "https://github.com/isaniovitor/generator-initial-workflow#readme"
+  "homepage": "https://github.com/isaniovitor/generator-initial-workflow#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.4.2"
+  }
 }

@@ -1,0 +1,19 @@
+{
+  "name": "generator-initial-workflow",
+  "version": "1.0.0",
+  "description": "generator for my workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaniovitor/generator-initial-workflow.git"
+  },
+  "author": "isaniovitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaniovitor/generator-initial-workflow/issues"
+  },
+  "homepage": "https://github.com/isaniovitor/generator-initial-workflow#readme"
+}
